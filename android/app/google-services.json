@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843871442604",
+    "project_id": "shopsavvy-eaf03",
+    "storage_bucket": "shopsavvy-eaf03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843871442604:android:616349cec7dc8c3b3eb109",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvro-k5Pyd99Z-rhqtlFUFwLdyDQeOuio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
